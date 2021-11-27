@@ -28,7 +28,7 @@ My score for this project should be 30/30. Lets go step by step to see how this 
 - My `bot.py` file works correctly, and each `FIXME` has been fixed. This awards 18 points.
 - My github repo (what you're looking at right now!) exists, and has all the required information. This awards 2 points.
 - Looking at the output of my `bot_counter.py` file, my bot has 1000 comments. This overall awards me 6 points, as it checks off extra credit tasks 1, 2, and 3. 
-- Attached is my file submission_bot.py. This is the file I made to complete task 4. My bot has posted over 200 submissions. Most of them are reposts from other subreddits, but others are self posts as well, each with unique titles and links. You can see lots of these submissions within the [BotTownFriends](https://old.reddit.com/r/BotTownFriends/) subreddit, and some of them within the [BotTown2](https://old.reddit.com/r/BotTown2/) subreddit as well. All of them were by user "silly-classbot". This awards 2 points.
+- Attached is my file `submission_bot.py`. This is the file I made to complete task 4. My bot has posted over 200 submissions. Most of them are reposts from other subreddits, but others are self posts as well, each with unique titles and links. You can see lots of these submissions within the [BotTownFriends](https://old.reddit.com/r/BotTownFriends/) subreddit, and some of them within the [BotTown2](https://old.reddit.com/r/BotTown2/) subreddit as well. All of them were by user "silly-classbot". This awards 2 points.
 - *I did not complete task 5.*
 - I completed task 6 by adding a line of code in task 4 of `bot.py`. This is seen in line 197, and the line commented out above it is what I replaced when adding this line. This awards 2 points.
 - *I did not complete task 7.*
