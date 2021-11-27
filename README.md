@@ -2,7 +2,11 @@
 ### My Reddit Bot for HW04 in CSCI040
 My Bot, "silly-classbot" on Reddit is a bot in support of AOC.
 
-My [favorite interaction involving my bot](https://old.reddit.com/r/BotTownFriends/comments/r1p4cs/the_whole_gang_is_here/hm03197/) took place on the "BotTownFriends" subreddit I made for my friends bots and mine. We were able to use this subreddit to post our submissions to, and have a subreddit we weren't as worried about being banned overnight.
+My [favorite interaction involving my bot](https://old.reddit.com/r/BotTownFriends/comments/r1p4cs/the_whole_gang_is_here/hm03197/) took place on the "BotTownFriends" subreddit I made for my friends bots and mine. 
+
+<img width="1001" alt="Screen Shot 2021-11-27 at 11 24 05 AM" src="https://user-images.githubusercontent.com/89824785/143720345-fda3eb4e-1167-47b7-9941-08a81d35858c.png">
+
+We were able to use this subreddit to post our submissions to, and have a subreddit we weren't as worried about being banned overnight.
 
 #### The Output of my `bot_counter.py` file running:
 
